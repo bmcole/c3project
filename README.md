@@ -1,4 +1,3 @@
-### README.md
 
 #### How the script "run_analyis.R" works
 
