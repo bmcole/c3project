@@ -16,6 +16,6 @@ Finally, the last block of code creates a second, independent tidy data set with
 
 #### CodeBook.md
 
-The codebook contains info about the variables used in run_analysis.R, as wel as info on how I chose to make the 
+The codebook contains info about the variables used in run_analysis.R, as well as info on how I chose to make the 
 activity names and variable names more descriptive.
 
