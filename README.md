@@ -8,7 +8,7 @@ Then, variable names are read in from the HAR data and assigned to the data fram
 Next, the training and test dataframes are subset to only mean/standard deviation variables using grep
 
 Then, the data on what activity the observation (subject) was performing was read in , as well as the subject ID identifier.
-These two new variables were then merged (binded) with to the train and test dataframes.
+These two new variables were then merged (binded) to the train and test dataframes.
 
 After that, the rest of the script either makes the activity names more descriptive, or the variable names more descriptive.
 
