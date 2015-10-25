@@ -2,7 +2,7 @@
 
 ## Variables in run_analysis.R
 
-####### train
+###### train
 * used to store the training dataset ("UCI HAR Dataset/train/X_train.txt")
 
 ###### test
